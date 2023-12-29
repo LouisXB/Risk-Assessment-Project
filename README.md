@@ -1,7 +1,7 @@
 # Risk-Assessment-Project
 Botium Toys Risk Assessment and Management
 
-In this project I was presented with a fictional company, Botium Toys, a small U.S. business that develops and sells toys. As a security professional, I was tasked with performing a security audit. The National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) is implemented, establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit was to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
+In this project I was presented with a fictional company, Botium Toys, a small U.S. business that develops and sells toys. As a security professional, I was tasked with performing a security audit for the company. The National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) is implemented, establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit was to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
 Below are two documents. One details the scope, goals and a risk assessment report for Botium Toys. The second document is a corresponding checklist that assesses adherence to established controls and compliance standards.
 
