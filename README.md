@@ -11,6 +11,6 @@ Below are two documents. One details the scope, goals and a risk assessment repo
 
 ## Controls and Compliance Checklist
 
-[Controls and Compliance Checklist.pdf](https://github.com/LouisXB/Risk-Assessment-Project/files/13796164/Controls.and.Compliance.Checklist.pdf)
+[Controls and Compliance Checklist.pdf](https://github.com/LouisXB/Risk-Assessment-Project/files/13796245/Controls.and.Compliance.Checklist.pdf)
 
 This project enabled me to assess the security posture of an organization, evaluate and identify risk present, and provide recommendations to the IT manager that served to reduce risk exposure and strengthen the overall security of the company. Overall, this was a great hands-on opportunity to dive deeper into risk assessment and management, a crucial skill of a cybersecurity professional.
